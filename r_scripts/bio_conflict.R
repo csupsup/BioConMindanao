@@ -284,7 +284,6 @@ perpoint.comb <- mean.dist %>% mutate(conflictFreq = if_else(county == "Agusan d
     if_else(county == "Zamboanga del Norte", 34,
     if_else(county == "Zamboanga del Sur", 106, 0))))))))))))))))))))))))))))))))
 write.csv(perpoint.comb, "perpoint.comb.csv")
-
 ```
 
 **Perform GLM**
