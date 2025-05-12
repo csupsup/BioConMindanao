@@ -4,6 +4,7 @@ Authors: Kier Mitchel E. Pitogo, Camila G. Meneses, Andrie Bon A. Flores, Aljohn
 This repository documents our reanalysis of the dataset used to examine biodiversity and conflict relationships in the Southern Philippines presented in this paper https://doi.org/10.1038/s44185-024-00044-8
 
 Our critique can be accessed here: https://www.nature.com/articles/s44185-025-00088-4
+
 Their response is available here: https://www.nature.com/articles/s44185-025-00089-3
 
 Some key points raised in their response:
